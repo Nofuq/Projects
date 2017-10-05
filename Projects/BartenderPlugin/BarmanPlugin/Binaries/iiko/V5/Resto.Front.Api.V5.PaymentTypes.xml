@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Resto.Front.Api.V5.PaymentTypes</name>
+    </assembly>
+    <members>
+        <member name="T:Resto.Front.Api.V5.PaymentTypes.SmartSalePaymentItemAdditionalData">
+            <summary>
+            Additional data for SmartSale payment item.
+            </summary>
+        </member>
+        <member name="T:Resto.Front.Api.V5.PaymentTypes.TrposPaymentItemAdditionalData">
+            <summary>
+            Additional data for Trpos payment item.
+            </summary>
+        </member>
+        <member name="T:Resto.Front.Api.V5.PaymentTypes.SbrfPaymentItemAdditionalData">
+            <summary>
+            Additional data for Sberbank payment item.
+            </summary>
+        </member>
+        <member name="P:Resto.Front.Api.V5.PaymentTypes.IikoNetPaymentItemAdditionalData.DiscountSum">
+            <summary>
+            Sum that Plazius will process as discount from all discount marketing campaigns.
+            It is calculated by Plazius, so setting it to another value can be harmful.
+            </summary>
+        </member>
+    </members>
+</doc>

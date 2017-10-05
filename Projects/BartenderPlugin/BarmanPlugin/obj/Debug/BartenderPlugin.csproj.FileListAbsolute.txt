@@ -1,0 +1,9 @@
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\obj\Debug\BartenderPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\bin\Debug\BeOpen.BartenderPlugin.dll.config
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\bin\Debug\BeOpen.BartenderPlugin.dll
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\bin\Debug\BeOpen.BartenderPlugin.pdb
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\bin\Debug\Resto.Front.Api.V5.dll
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\bin\Debug\Resto.Front.Api.V5.pdb
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\bin\Debug\Resto.Front.Api.V5.xml
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\obj\Debug\BeOpen.BartenderPlugin.dll
+C:\Users\Марина\Documents\Projects\BarmanPlugin\BarmanPlugin\obj\Debug\BeOpen.BartenderPlugin.pdb
