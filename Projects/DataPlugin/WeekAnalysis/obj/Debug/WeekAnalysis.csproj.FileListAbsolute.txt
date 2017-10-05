@@ -1,0 +1,15 @@
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\PluginSDK.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\PluginSDK.pdb
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\WeekAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\Reports.Resources.lang.en-US.resources
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\Reports.Resources.lang.ru-RU.resources
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\WeekAnalysis.csproj.GenerateResource.Cache
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\WeekAnalysis.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\WeekAnalysis.pdb
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\en-US\WeekAnalysis.resources.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\bin\Debug\ru-RU\WeekAnalysis.resources.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\en-US\WeekAnalysis.resources.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\ru-RU\WeekAnalysis.resources.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\WeekAnalysis.dll
+C:\Users\Марина\Desktop\DataPlugin\WeekAnalysis\obj\Debug\WeekAnalysis.pdb

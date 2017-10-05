@@ -1,0 +1,14 @@
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\PluginTestForm.exe.config
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\PluginTestForm.exe
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\PluginTestForm.pdb
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\DataPlugin.dll
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\PluginSDK.dll
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\DataPlugin.pdb
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\bin\Debug\PluginSDK.pdb
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\obj\Debug\PluginTestForm.csprojResolveAssemblyReference.cache
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\obj\Debug\PluginTestForm.Form1.resources
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\obj\Debug\PluginTestForm.Properties.Resources.resources
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\obj\Debug\PluginTestForm.csproj.GenerateResource.Cache
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\obj\Debug\PluginTestForm.exe
+C:\Users\Марина\Desktop\DataPlugin\PluginTestForm\obj\Debug\PluginTestForm.pdb
